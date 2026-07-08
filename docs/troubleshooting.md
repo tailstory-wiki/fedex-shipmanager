@@ -1,4 +1,5 @@
 ---
+layout: partial.njk
 title: Troubleshooting
 description: Troubleshooting FedEx Ship Manager
 ---
